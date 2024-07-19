@@ -1,13 +1,13 @@
 <h1 align="center">👋 Hi, I’m Chiruvolu Bhargav Krishna</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in **Web Development**
   
-- 🌱 I’m currently learning Backend Development
+- 🌱 I’m currently learning **Backend Development**
 
-- 💞️ I’m looking to collaborate with Full Stack Developers
+- 💞️ I’m looking to collaborate with **Full Stack Developers**
   
-- 💬 Ask me about: HTML, CSS, JS, C, JAVA, SQL
+- 💬 Ask me about: **HTML, CSS, JS, C, JAVA, SQL**
   
 - 📫 Reach me  **chiruvolubhargavkrishna@gmail.com**
 
